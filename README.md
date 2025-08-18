@@ -1,6 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Taehee's%20Github&height=200&fontSize=70&fontColor=ffffff)
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"  />
+</div>
+
+
+###
 
 <div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+<div align="center">
+
+
 
   <!-- 📊 가로 배치: Stats + Top Languages -->
 <img
@@ -41,6 +51,3 @@
 
 </div>
 
----
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
