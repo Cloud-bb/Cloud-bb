@@ -6,10 +6,18 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-<div align="center">
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/공주님-계정" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
+  <!-- Tistory -->
+  <a href="https://cloudy-b.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" height="25" alt="tistory logo"  />
+  </a>
+
+</div>
 
 
   <!-- 📊 가로 배치: Stats + Top Languages -->
