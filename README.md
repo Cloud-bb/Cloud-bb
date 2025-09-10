@@ -22,7 +22,7 @@
 
   <!-- 📊 가로 배치: Stats + Top Languages -->
 <img
-    src="https://github-readme-stats.vercel.app/api?username=Cloud-bb&show_icons=true,count_private=true&theme=greywhite&border_radius=20&v=1"
+    src="https://github-readme-stats.vercel.app/api?username=Cloud-bb&hide=stars,contribs&count_private=true&show_icons=true&theme=greywhite&border_radius=20&v=1"
     height="180"
     alt="GitHub Stats"
   />
